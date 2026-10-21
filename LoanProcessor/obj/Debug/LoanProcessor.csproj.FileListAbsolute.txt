@@ -1,0 +1,15 @@
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\bin\Debug\LoanProcessor.exe.config
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\bin\Debug\LoanProcessor.exe.manifest
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\bin\Debug\LoanProcessor.application
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\bin\Debug\LoanProcessor.exe
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\bin\Debug\LoanProcessor.pdb
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\bin\Debug\log4net.dll
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\bin\Debug\log4net.pdb
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\bin\Debug\log4net.xml
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\obj\Debug\LoanProcessor.csproj.AssemblyReference.cache
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\obj\Debug\LoanProcessor.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\obj\Debug\LoanProcessor.exe.manifest
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\obj\Debug\LoanProcessor.application
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\obj\Debug\LoanProc.C6521552.Up2Date
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\obj\Debug\LoanProcessor.exe
+C:\Users\SAMUEL\Desktop\LoanProcessor\LoanProcessor\obj\Debug\LoanProcessor.pdb

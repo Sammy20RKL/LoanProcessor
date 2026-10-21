@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LoanProcessor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LoanProcessor_BWSWebRef_MobileService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://desktop-3m9511p:7047/BC270_Bamburi/WS/Test%20Company/Codeunit/MobileService</Value>
+    </Setting>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Swizzsoft</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Swizzsoft@2024</Value>
+    </Setting>
+    <Setting Name="LoanService" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://desktop-3m9511p:7047/BC270_Bamburi/WS/Test%20Company/Codeunit/MobileService</Value>
+    </Setting>
+    <Setting Name="domain" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
